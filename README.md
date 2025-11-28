@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻 I’m currently studying Computer Science<br>🖥️ I have worked in many different projects:<br>🌐 Web Pages<br>🎮 Gaming<br>🚀 And a lot more
+💻 I’m currently studying Computer Science<br>🖥️ I have worked in many different projects:<br>🌐 Web Pages<br>📱Mobile Apps<br>🎮 Gaming<br>⚙️Mods<br>🚀 And a lot more
 
 
 ## 🌐 Socials:
